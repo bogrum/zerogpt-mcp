@@ -11,7 +11,7 @@ playwright install chromium
 
 Or from source:
 ```bash
-git clone https://github.com/YOUR_USER/zerogpt-mcp
+git clone https://github.com/bogrum/zerogpt-mcp
 cd zerogpt-mcp
 pip install -e .
 playwright install chromium
