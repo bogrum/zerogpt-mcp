@@ -1,0 +1,9 @@
+[project]
+name = "zerogpt-mcp"
+version = "0.1.0"
+description = "MCP server for ZeroGPT AI detection"
+requires-python = ">=3.10"
+dependencies = ["mcp>=1.0.0", "playwright"]
+
+[project.scripts]
+zerogpt-mcp = "zerogpt_mcp.server:main"
