@@ -1,0 +1,2 @@
+[console_scripts]
+zerogpt-mcp = zerogpt_mcp.server:cli_main

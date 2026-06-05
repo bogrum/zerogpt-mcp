@@ -6,4 +6,4 @@ requires-python = ">=3.10"
 dependencies = ["mcp>=1.0.0", "playwright"]
 
 [project.scripts]
-zerogpt-mcp = "zerogpt_mcp.server:main"
+zerogpt-mcp = "zerogpt_mcp.server:cli_main"

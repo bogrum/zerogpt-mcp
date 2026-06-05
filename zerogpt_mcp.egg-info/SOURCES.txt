@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+zerogpt_mcp/__init__.py
+zerogpt_mcp/server.py
+zerogpt_mcp.egg-info/PKG-INFO
+zerogpt_mcp.egg-info/SOURCES.txt
+zerogpt_mcp.egg-info/dependency_links.txt
+zerogpt_mcp.egg-info/entry_points.txt
+zerogpt_mcp.egg-info/requires.txt
+zerogpt_mcp.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: zerogpt-mcp
+Version: 0.1.0
+Summary: MCP server for ZeroGPT AI detection
+Requires-Python: >=3.10
+Requires-Dist: mcp>=1.0.0
+Requires-Dist: playwright
